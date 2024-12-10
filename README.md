@@ -1,5 +1,5 @@
 # react_pokemon
 
 ## Groupe :  <br>
-Alexi Reyes
+Alexi Reyes <br>
 Romain Royer
