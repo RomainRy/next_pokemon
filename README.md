@@ -1,4 +1,4 @@
-# react_pokemon
+# Next_pokemon
 
 ## Groupe :  <br>
 Alexi Reyes <br>
